@@ -24,7 +24,7 @@ from tensorflow.keras.layers import Flatten
 import networkx as nx
 
 #@title ICH Algorithm (Hidden) { display-mode: "form" }
-# ICH Algorithm
+# ICH Algorithm by Richard Tillquist
 
 from scipy.stats import entropy
 from scipy.special import comb
